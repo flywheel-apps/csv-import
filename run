@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-export PATH=/opt/conda/bin:$PATH
-
-python /flywheel/v0/script.py
